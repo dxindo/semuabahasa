@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-HelloAllWorlds-20141010102351.mdf;Initial Catalog=aspnet-HelloAllWorlds-20141010102351;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\v-yugin\\Documents\\WORK\\Work\\FY16\\Activity\\PCR\ Techno\ Day\\materi\\materi\\02-Web\\Demo1\ -\ Hello\ All\ Worlds\\source\\HelloAllWorlds\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

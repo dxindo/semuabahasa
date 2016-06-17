@@ -1,0 +1,74 @@
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\HelloAllWorlds.dll.config
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\HelloAllWorlds.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\HelloAllWorlds.pdb
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Antlr3.Runtime.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Microsoft.Owin.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Microsoft.Web.Infrastructure.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Newtonsoft.Json.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Owin.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Net.Http.Formatting.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Helpers.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Http.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Http.WebHost.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Mvc.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Optimization.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Razor.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.WebPages.Deployment.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.WebPages.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.WebPages.Razor.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\WebGrease.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Antlr3.Runtime.pdb
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Microsoft.Owin.xml
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Newtonsoft.Json.xml
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Net.Http.Formatting.xml
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Helpers.xml
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Http.xml
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Http.WebHost.xml
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Mvc.xml
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Razor.xml
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.WebPages.xml
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.WebPages.Deployment.xml
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.WebPages.Razor.xml
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Optimization.xml
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\obj\Release\HelloAllWorlds.csprojResolveAssemblyReference.cache
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\obj\Release\HelloAllWorlds.dll
+E:\Work\Pribadi\2015\02-Cloud Essential\FINAL\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\obj\Release\HelloAllWorlds.pdb
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\HelloAllWorlds.dll.config
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\HelloAllWorlds.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\HelloAllWorlds.pdb
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Antlr3.Runtime.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Microsoft.Owin.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Newtonsoft.Json.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Owin.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Net.Http.Formatting.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Helpers.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Http.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Http.WebHost.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Mvc.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Optimization.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Razor.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.WebPages.Deployment.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.WebPages.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.WebPages.Razor.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\WebGrease.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Antlr3.Runtime.pdb
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Microsoft.Owin.xml
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\Newtonsoft.Json.xml
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Net.Http.Formatting.xml
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Helpers.xml
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Http.xml
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Http.WebHost.xml
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Mvc.xml
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Razor.xml
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.WebPages.xml
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.WebPages.Deployment.xml
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.WebPages.Razor.xml
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\bin\System.Web.Optimization.xml
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\obj\Release\HelloAllWorlds.csprojResolveAssemblyReference.cache
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\obj\Release\HelloAllWorlds.dll
+C:\Users\v-yugin\Documents\WORK\Work\FY16\Activity\PCR Techno Day\materi\materi\02-Web\Demo1 - Hello All Worlds\source\HelloAllWorlds\obj\Release\HelloAllWorlds.pdb
